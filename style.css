@@ -1,6 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
+  font-size: 50;
+  background-color: #ffd000;
   margin: 0;
   padding: 0;
 }
@@ -9,7 +10,7 @@ body {
   max-width: 400px;
   margin: 80px auto;
   padding: 30px;
-  background-color: #fff;
+  background-color: #d13131;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
 }
@@ -36,7 +37,8 @@ textarea {
   border: none;
   border-radius: 10px;
   resize: vertical;
-  background-color: #f5f5f5;
+  background-color: #ffffff;
+  font-size: 40px;
 }
 
 button {
